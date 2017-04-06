@@ -13,5 +13,5 @@
     ************************************************************************************************************************
 
     ____________________________________________________________________________________________________________________________
-                                                                                       
-                                                                                                            
+                                                                                                                                                                                         
+The point of the test is to see how the program behaves whenever it gets some really messy error.  I didn't want it to throw a total error and just stop.
