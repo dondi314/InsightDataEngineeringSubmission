@@ -1,0 +1,7 @@
+12:00 AM, Sunday,3
+12:00 AM, Saturday,2
+12:00 AM, Friday,1
+12:00 AM, Thursday,1
+12:00 AM, Wednesday,1
+12:00 AM, Tuesday,1
+12:00 AM, Monday,1
