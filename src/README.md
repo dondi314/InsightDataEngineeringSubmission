@@ -11,8 +11,8 @@
     
     feature 2 uses feature_2.py and newuser.py
     
-    NOTE:  If you do not care about feature 3, then you can hastag it out on
-    the very last line of the process_log.py file.
+    *NOTE:  If you do not care about feature 3, then you can hastag it out on
+    the very last line of the process_log.py file.*
     
     
     
