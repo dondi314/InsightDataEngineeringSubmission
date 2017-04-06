@@ -17,4 +17,5 @@
     
     
 I wanted to see how my program dealt with white text.  In particular with line 6
-                199.72.81.55 - - [01/J ul/1995:00:00:13 -0400] “POST /login HTTP/1.0” 401 1420
+
+     199.72.81.55 - - [01/J ul/1995:00:00:13 -0400] “POST /login HTTP/1.0” 401 1420
