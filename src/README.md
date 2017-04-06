@@ -1,4 +1,4 @@
- # About these piles
+ # About these python files
 
     process_log.py is the main module
 
