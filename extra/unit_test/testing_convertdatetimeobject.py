@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime
 import sys
-sys.path.insert(0,'../src')
+sys.path.insert(0,'../../src')
 from some_useful_functions import convertdatetimeobject
 
 unix_begin = datetime(1970, 1, 1, 0, 0, 0)
