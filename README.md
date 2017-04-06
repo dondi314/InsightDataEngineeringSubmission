@@ -20,7 +20,7 @@ Detect patterns of three failed login attempts from the same IP address over 20 
 List the 10 users who consume the most bandwidth on the site.  For our purposes, bandwidth is measured as total bytes used by the user.
 
 ### Feature 6:
-List all nonzero quarter hour time blocks of the week in order of web traffic received by the website from highest to lowest in terms of number of website hits.
+List all busiest nonzero quarter hour time blocks of the week in order of web traffic received by the website from highest to lowest (take day of the week into account).
 
 ### Feature 7:
 List all nonzero quarter hour time blocks of the week in order of web traffic received by the website from highest to lowest in terms of number of website hits.
