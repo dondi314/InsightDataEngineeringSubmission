@@ -15,4 +15,4 @@
     199.72.81.55 - - [01/Jul/1995:00:00:15 -0400] “POST /login HTTP/1.0” 401 1420
     
     
-I wanted to see how my program handled white spaces.
+I wanted to see how my program handled white spaces.  It also tests what happens whenever the times are out of order.  Notice it goes 13, 12, 14.
