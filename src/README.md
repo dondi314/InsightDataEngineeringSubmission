@@ -9,3 +9,7 @@
     
     feature 3 depends heavily on feauture_3.py and feature_3_command.py
     
+    feature 2 uses feature_2.py and newuser.py
+    
+    
+    
