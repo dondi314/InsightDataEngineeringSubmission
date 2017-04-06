@@ -41,7 +41,7 @@ e.g., `top_ten_users_bandwidth.txt`:
 ### Feature 6
 List in descending order the site’s busiest (i.e. most frequently visited) 15-minute periods.
 
-Write to a file named `busiest_quarter_hours.txt`, the hour of each 15-minute window follwed by 00, 15, 30, or 45, followed by the day of the week, followed by the number of times the site was accessed during that time period. The file should contain as many lines as nonzero entries (i.e. up to but no more than 24*4*7), with each line containing the start of each 15-minute window, followed by a comma and then the number of times the site was accessed during those 60 minutes. The 10 lines should be listed in descending order with the busiest 60-minute window shown first. 
+Write to a file named `busiest_quarter_hours.txt`, the hour of each 15-minute window follwed by 00, 15, 30, or 45, followed by the day of the week, followed by the number of times the site was accessed during that time period. The file should contain as many lines as nonzero entries (i.e. up to but no more than 24*4*7), with each line containing the start of each 15-minute window, followed by a comma and then the number of times the site was accessed during those 60 minutes. The lines should be listed in descending order with the busiest 60-minute window shown first. 
 
 e.g., `hours.txt`:
 
@@ -51,6 +51,18 @@ e.g., `hours.txt`:
     01:00 AM, Saturday,8
 
 I have included my file from the run of the large log.txt file.  My results are pretty interesting.  You get weekdays and middle of the day hours showing up at the top, and more weekend days and later hours showing up at the bottom of the list.  Though I am a bit uncertain what to make of the hours because of timezones.
+
+### Feature 7
+List in descending order the site’s busiest (i.e. most frequently visited) 15-minute periods in terms of bandwidth.
+
+Write to a file named `busiest_15_minute_bandwidth.txt`, the hour of each 15-minute window follwed by 00, 15, 30, or 45, followed by the day of the week, followed by the number of bytes occuring during that time period. The file should contain as many lines as nonzero entries (i.e. up to but no more than 24*4*7), with each line containing the start of each 15-minute window, followed by a comma and then the number of bytes occuring. The lines should be listed in descending order with the busiest 60-minute window shown first. 
+
+e.g., `hours.txt`:
+
+    12:30 PM, Thursday,100000
+    11:00 AM, Wednesday,6505
+    02:00 PM, Tuesday,1078
+    01:00 AM, Saturday,89
 
 
 ### Note, I have modified the run.sh file and the run_test.sh file to run my features
