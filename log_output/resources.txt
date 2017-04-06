@@ -1,0 +1,10 @@
+/mdss/ped/acs/SDP.ps
+/shuttle/missions/sts70/movies/sts70landingapproach.mpg
+/shuttle/missions/sts70/images/DSC00001.jpg
+/biomed/threat/gif/seaturtlefin.gif
+/software//viewers/lview31.zip
+/shuttle/missions/sts69/test/count69.jpg
+/statistics/1993/1993.html
+/shuttle/missions/sts69/test/test.gif
+/shuttle/missions/sts69/test/test1.gif
+/persons/astronauts/mtop/MelnickBE.txt
