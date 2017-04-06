@@ -20,7 +20,10 @@ Detect patterns of three failed login attempts from the same IP address over 20 
 List the 10 users who consume the most bandwidth on the site.  For our purposes, bandwidth is measured as total bytes used by the user.
 
 ### Feature 6:
-List all nonzero quarter hour time blocks in which the website received the most web traffic.
+List all nonzero quarter hour time blocks of the week in order of web traffic received by the website from highest to lowest in terms of number of website hits.
+
+### Feature 7:
+List all nonzero quarter hour time blocks of the week in order of web traffic received by the website from highest to lowest in terms of number of website hits.
 
 ### Note, I have modified the run.sh file and the run_test.sh file to run my features
 If you have trouble running my features, be sure to look at my run files
